@@ -1,9 +1,8 @@
 # PIC16F887
 Este repositorio contiene el proyecto final de la materia, en el cual desarrollamos un seguidor de línea utilizando microcontroladores PIC16F887. A lo largo del cuatrimestre, se adquirieron y aplicaron diversas herramientas y técnicas para implementar de manera efectiva las funcionalidades necesarias.
+#Funcionalidades Implementadas
 
-Funcionalidades Implementadas
 Puertos de Entrada y Salida:
-
 Configuración y uso de puertos analógicos y digitales.
 Control de dispositivos conectados a través de estos puertos.
 Interrupciones:
@@ -22,7 +21,8 @@ Implementación del Puerto UART:
 
 Configuración y prueba del puerto UART.
 Implementación realizada por separado debido a la complejidad de la integración en la plataforma ya desarrollada.
-Objetivos del Proyecto
+
+#Objetivos del Proyecto
 Desarrollar un seguidor de línea funcional:
 Utilizando sensores para detectar y seguir una línea trazada en el suelo.
 
@@ -41,3 +41,4 @@ Esquemáticos y Diagramas:
 
 Diagramas de conexión del hardware.
 Esquemáticos de los circuitos utilizados.
+
