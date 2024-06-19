@@ -1,3 +1,16 @@
+;Autores:
+;CABERO, MAURO EZEQUIEL
+;DE LOS SANTOS AUGUSTO FRANCISCO
+;PANIAGUA ROMERO, RODRIGO ALEJANDRO
+;
+;ESTABLECIMIENTO: UNIVERSIDAD NACIONAL DE CÓRDOBA - FACULTAD DE CIENCIAS EXACTAS FISICAS Y NATURALES
+;AÑO: 2024
+;MATERIA: ELECTRÓNICA DIGITAL II
+;SUPERVISIÓN ACADÉMICA: ING. DEL BARCO, MARTIN IGNACIO
+;
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 INCLUDE <p16f887.inc>
   
  ; CONFIG1
